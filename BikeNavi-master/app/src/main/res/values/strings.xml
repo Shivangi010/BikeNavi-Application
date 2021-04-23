@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">BikeNavi</string>
+
+    <!-- string name for logo -->
+    <string name="app_logo">BakeNavi Logo</string>
+
+    <!-- string name for home button text -->
+    <string name="btn_home">Login</string>
+
+    <!-- string name for registrationActivity title text -->
+    <string name="reg_title">Registration</string>
+
+    <!-- string name for loginActivity title text -->
+    <string name="login_title">Let\'s Get In...</string>
+
+    <!-- string name for FirstName EditText -->
+    <string name="first_name">First Name</string>
+
+    <!-- string name for LastName EditText -->
+    <string name="last_name">Last Name</string>
+
+    <!-- string name for Phone number EditText -->
+    <string name="phone_number">Phone Number</string>
+
+    <!-- string name for Email EditText -->
+    <string name="email">Email</string>
+
+    <!-- string name for SignUp Button text -->
+    <string name="sign_up">Sign Up</string>
+
+    <!-- string name for Send Button text -->
+    <string name="send">Send</string>
+
+    <!-- string name for password text -->
+    <string name="pwd">Password</string>
+
+    <!-- string name for my profile text -->
+    <string name="profile">My Profile</string>
+
+    <!-- string error text for firstName -->
+    <string name="err_firstName">First Name is Required. </string>
+
+    <!-- string error text for lastName -->
+    <string name="err_lastName">Last Name is Required. </string>
+
+    <!-- string error text for email -->
+    <string name="err_email">Email is Required. </string>
+
+    <!-- string error text for password -->
+    <string name="err_password">Password is Required. </string>
+
+    <!-- string validator text for password -->
+    <string name="valid_password">The length of password should be >= 6 characters. </string>
+
+    <!-- string error text for phone -->
+    <string name="err_phone">Phone Number is Required. </string>
+
+    <!-- string text for User created -->
+    <string name="user_success">User successfully created. </string>
+
+    <!-- string text for User error -->
+    <string name="user_error">Error occurred, Please try again! </string>
+
+    <!-- string text for login success -->
+    <string name="login_success">Login successful. </string>
+
+    <!-- string text for login error -->
+    <string name="login_error">Login error, please try again! </string>
+
+    <!-- string text for password email success -->
+    <string name="emailPwd_success">The password reset link has sent successfully. </string>
+
+    <!-- string text for password email error -->
+    <string name="emailPwd_error">Error occurred, please try again!. </string>
+
+    <!-- string name for SignUp text -->
+    <string name="signUp_text">Don\'t have an account? Click here to Sign Up</string>
+
+    <!-- string name for forgot password text -->
+    <string name="forgot_password">Forgot password?</string>
+
+    <!-- string name for already a user text -->
+    <string name="already_user">Already a user? Login here</string>
+</resources>

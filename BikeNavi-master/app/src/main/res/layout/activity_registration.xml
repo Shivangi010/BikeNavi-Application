@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_signup"
+    android:backgroundTint="#9e9e9e"
+    android:backgroundTintMode="multiply"
+    tools:context=".authentication.RegistrationActivity">
+
+    <ImageView
+        android:id="@+id/ivLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_margin="8dp"
+        android:contentDescription="@string/app_logo"
+        android:scaleType="fitCenter"
+        android:src="@drawable/bike_logo" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/etFirstName"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="36dp"
+        android:text="@string/reg_title"
+        android:textColor="@android:color/white"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etFirstName"
+        style="@style/AllEditTexts"
+        android:layout_above="@id/etLastName"
+        android:layout_marginBottom="24dp"
+        android:ems="20"
+        android:hint="@string/first_name"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/etLastName"
+        style="@style/AllEditTexts"
+        android:layout_above="@id/etEmail"
+        android:layout_marginBottom="24dp"
+        android:ems="20"
+        android:hint="@string/last_name"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/etEmail"
+        style="@style/AllEditTexts"
+        android:layout_above="@id/etPassword"
+        android:layout_marginBottom="24dp"
+        android:ems="30"
+        android:hint="@string/email"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/etPassword"
+        style="@style/AllEditTexts"
+        android:layout_above="@id/etPhoneNumber"
+        android:layout_marginBottom="24dp"
+        android:ems="30"
+        android:hint="@string/pwd"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/etPhoneNumber"
+        style="@style/AllEditTexts"
+        android:layout_above="@id/btnSignUp"
+        android:layout_marginBottom="24dp"
+        android:ems="10"
+        android:hint="@string/phone_number"
+        android:inputType="phone" />
+
+    <Button
+        android:id="@+id/btnSignUp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/tvAlreadyUser"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="18dp"
+        android:background="@color/bg_startUp"
+        android:text="@string/sign_up"
+        android:onClick="onSignUpClick"
+        android:textAllCaps="false" />
+
+    <TextView
+        android:id="@+id/tvAlreadyUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="24dp"
+        android:onClick="onLoginTextClick"
+        android:text="@string/already_user"
+        android:textStyle="bold"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textColor="@android:color/white" />
+
+</RelativeLayout>

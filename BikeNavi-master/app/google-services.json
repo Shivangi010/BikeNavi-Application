@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "430556100797",
+    "project_id": "bikenavi-dev",
+    "storage_bucket": "bikenavi-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430556100797:android:6a60bd0c5740f0a7f21fd4",
+        "android_client_info": {
+          "package_name": "com.bikenavi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430556100797-ub061m7f6r5ol8lsd84t20jabhn712k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjduidv3En6Kh7fzRMd67HnwOZKERpEa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430556100797-ub061m7f6r5ol8lsd84t20jabhn712k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430556100797:android:0effcb6871b95834f21fd4",
+        "android_client_info": {
+          "package_name": "com.example.bikenavi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430556100797-ub061m7f6r5ol8lsd84t20jabhn712k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjduidv3En6Kh7fzRMd67HnwOZKERpEa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430556100797-ub061m7f6r5ol8lsd84t20jabhn712k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

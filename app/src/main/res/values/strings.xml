@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">BikeNavi</string>
+
+    <!-- string name for logo -->
+    <string name="app_logo">BakeNavi Logo</string>
+
+    <!-- string name for home button text -->
+    <string name="btn_home">Login</string>
+
+    <!-- string name for registrationActivity title text -->
+    <string name="reg_title">Registration</string>
+
+    <!-- string name for loginActivity title text -->
+    <string name="login_title">Let\'s Get In...</string>
+
+    <!-- string name for FirstName EditText -->
+    <string name="first_name">First Name</string>
+
+    <!-- string name for LastName EditText -->
+    <string name="last_name">Last Name</string>
+
+    <!-- string name for Phone number EditText -->
+    <string name="phone_number">Phone Number</string>
+
+    <!-- string name for Email EditText -->
+    <string name="email">Email</string>
+
+    <!-- string name for SignUp Button text -->
+    <string name="sign_up">Sign Up</string>
+
+    <!-- string name for Send Button text -->
+    <string name="send">Send</string>
+
+    <!-- string name for password text -->
+    <string name="pwd">Password</string>
+
+    <!-- string name for my profile text -->
+    <string name="profile">My Profile</string>
+
+    <!-- string error text for firstName -->
+    <string name="err_firstName">First Name is Required. </string>
+
+    <!-- string error text for lastName -->
+    <string name="err_lastName">Last Name is Required. </string>
+
+    <!-- string error text for email -->
+    <string name="err_email">Email is Required. </string>
+
+    <!-- string error text for password -->
+    <string name="err_password">Password is Required. </string>
+
+    <!-- string validator text for password -->
+    <string name="valid_password">The length of password should be >= 6 characters. </string>
+
+    <!-- string error text for phone -->
+    <string name="err_phone">Phone Number is Required. </string>
+
+    <!-- string text for User created -->
+    <string name="user_success">User successfully created. </string>
+
+    <!-- string text for User error -->
+    <string name="user_error">Error occurred, Please try again! </string>
+
+    <!-- string text for login success -->
+    <string name="login_success">Login successful. </string>
+
+    <!-- string text for login error -->
+    <string name="login_error">Login error, please try again! </string>
+
+    <!-- string text for password email success -->
+    <string name="emailPwd_success">The password reset link has sent successfully. </string>
+
+    <!-- string text for password email error -->
+    <string name="emailPwd_error">Error occurred, please try again! </string>
+
+    <!-- string name for SignUp text -->
+    <string name="signUp_text">Don\'t have an account? Click here to Sign Up</string>
+
+    <!-- string name for forgot password text -->
+    <string name="forgot_password">Forgot password?</string>
+
+    <!-- string name for already a user text -->
+    <string name="already_user">Already a user? Login here</string>
+
+    <!-- string name for logout -->
+    <string name="logout">Logout</string>
+
+    <!-- string name for mapbox access token -->
+    <string name="access_token">sk.eyJ1IjoiaWFtc3BkIiwiYSI6ImNrbXpkN3NpYjBjc3Eyb25uZ2s0dTg2eGMifQ.hrj3Om4TL9Vb0IOBV2d24g</string>
+
+    <!-- string name for showing permission required text -->
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+
+    <!-- string name for home screen title -->
+    <string name="home_title">Connect to Light</string>
+
+    <!-- string name for Bluetooth switch  -->
+    <string name="bluetooth_toggle">Bluetooth</string>
+
+    <!-- string name for start navigation  -->
+    <string name="start_navigation">Start Navigation</string>
+
+    <!-- string name for Bluetooth settings  -->
+    <string name="bluetooth_settings">Bluetooth Settings</string>
+
+    <!-- string name for show connected devices button  -->
+    <string name="show_connected">Connected Devices</string>
+
+    <!-- string name for bluetooth not available Toast  -->
+    <string name="bt_not_available">Bluetooth is not available</string>
+
+    <!-- string name for turning BT on  -->
+    <string name="msg_bt_on">Turning Bluetooth on…</string>
+
+    <!-- string name for bluetooth is on Toast  -->
+    <string name="msg_bt_turned_on">Bluetooth is on</string>
+
+    <!-- string name for could not turn bluetooth on Toast  -->
+    <string name="msg_bt_not_turned_on">Could not turn Bluetooth on</string>
+
+    <!-- string name for turn your bluetooth on Toast  -->
+    <string name="msg_bt_off">Turning Bluetooth off…</string>
+
+    <!-- string name for text connected devices  -->
+    <string name="paired_devices">Paired Devices</string>
+
+    <!-- string name for text search location  -->
+    <string name="get_location_screen">Get Location</string>
+
+    <!-- string name for turn on BT to get paired devices Toast  -->
+    <string name="turn_to_get_device">Turn on the Bluetooth to get paired devices</string>
+
+    <!-- string name for bluetooth is available  -->
+    <string name="bt_available">Bluetooth is available</string>
+
+    <!-- string name for connect to ring light  -->
+    <string name="connect_ring_light">Attach the ring light</string>
+
+    <!-- string name for bluetooth is already on toast  -->
+    <string name="bt_already_on">Bluetooth is already on</string>
+
+    <!-- string name for already turned on bluetooth Toast  -->
+    <string name="msg_bt_connected">Device is connected already! Check your paired device</string>
+
+
+</resources>
