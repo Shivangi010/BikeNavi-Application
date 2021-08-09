@@ -1,5 +1,5 @@
 # BikeNavi-Application
-BikeNavi aims to offer a smarter and safer way to navigate while biking with options to customize the features. The add-ons will help the bikers to add more features to the smart biking system. BikeNavi is a set of accessories that can be attached to the bike. The BikeNavi consumers are usually the bike riders, focused on the riders of age 13 or above. Each BikeNavi starter package will consist of a navigation ring, battery, headlight, tail light and emergency switch. Additional components will bring more safety for the bike and bikers.
+BikeNavi aims to offer a smarter and safer way to navigate while biking with options for adding/removing bike-light equipments like ring light, tail light, headlight and emergency switch for turns. The bike accessories helps the user to reach destination without checking the smartphone and by getting constant updates regarding which direction he/she has to take a turn for.
 
 ![image](https://user-images.githubusercontent.com/53758828/121783687-109d6380-cb7e-11eb-9273-5d661b231a98.png)
 
